@@ -1,0 +1,24 @@
+ body{ 
+  		font-size: 35px;
+  		color: red;
+      padding-top: 40px;
+      text-align: center;
+      font-family: monaco, monospace;
+      background: url(http://media.giphy.com/media/Jrd9E2kuPuOYM/giphy.gif) 200%;
+      background-size: cover;
+}
+h1, h2 { 
+  display: inline-block;
+  background: #ffd;
+}
+h1 {
+	line-height: 30px;
+	text-align: center;
+  font-size: 30px;
+}
+h2 {
+  font-size: 40px;
+}
+span {
+  background: #fa1;
+}
